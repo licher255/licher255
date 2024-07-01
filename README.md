@@ -1,6 +1,7 @@
 # About Me 👾
 
 Hey there! I'm Licher, a Full Stack Wizard and UI/UX Sorcerer 🧙‍♂️, deeply entrenched in the realms of QML and hardware integration. 
+
 My journey from the mechanical engineering trenches to the software battlegrounds 
 have forged a unique skill set that blends the physical with the digital in ways that defy convention.
 
