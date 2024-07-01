@@ -12,7 +12,7 @@ have forged a unique skill set that blends the physical with the digital in ways
   
 # Skill Arsenal🛠️
 - Languages 📝: QML, JavaScript, Python - the core of my magical incantations.
-- Frameworks & Tools 🧰: Qt, Docker, Git, 
+- Frameworks & Tools 🧰: Qt, Docker, Git
 - Design Platforms: Figma, Adobe XD, PowerPoint of course - where I conjure user experiences.
 # Epic Projects and Contributions 🚀
 - Project Name: Built a next-gen interface that synchronizes with hardware like a cybernetic symbiosis.
