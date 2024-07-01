@@ -1,6 +1,6 @@
 # About Me
 
-Hey there! I'm a Full Stack Wizard and UI/UX Sorcerer Licher, deeply entrenched in the realms of QML and hardware integration. My journey from the mechanical engineering trenches to the software battlegrounds has forged a unique skill set that blends the physical with the digital in ways that defy convention.
+Hey there! I'm Licher, a Full Stack Wizard and UI/UX Sorcerer, deeply entrenched in the realms of QML and hardware integration. My journey from the mechanical engineering trenches to the software battlegrounds has forged a unique skill set that blends the physical with the digital in ways that defy convention.
 
 # Professional Hacker Profile
 - Full Stack Dev Alchemist: Crafting end-to-end solutions with QML, JavaScript, C++, and Python, turning code into gold.
