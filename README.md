@@ -22,6 +22,6 @@ Open Source Warrior: Active contributor to Project Name, enhancing [specific fea
 - Open Source Crusader: Passionate about driving innovation through community collaboration.
 - Tech Adventurer: Constantly diving into new technologies and uncharted territories of the coding universe.
 # Connect with Me
-GitHub: [Your GitHub URL] - Explore my repositories and join me on my coding quests.
+GitHub: [https://github.com/licher255] - Explore my repositories and join me on my coding quests.
 LinkedIn: [Your LinkedIn URL] - Professional connections welcome.
 Personal Website: [in buliding] - Dive deeper into my projects and passions.
