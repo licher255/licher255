@@ -5,7 +5,7 @@ My journey from the mechanical engineering trenches to the software battleground
 have forged a unique skill set that blends the physical with the digital in ways that defy convention.
 
 # Professional Hacker Profile 💻
-- Full Stack Dev Alchemist 🧪: with help from AI, Crafting end-to-end solutions with QML, JavaScript, and Python, turning code into gold.
+- Full Stack Dev Alchemist 🧪: with some magic of AI, Crafting end-to-end solutions with QML, JavaScript, and Python, turning code into gold.
 - UI/UX Virtuoso 🎨: Designing mind-blowing interfaces that not only look sleek but also seamlessly meld with hardware.
 - Cross-Domain Engineer 🔧: Combining hardcore mechanical engineering principles with cutting-edge software development to create revolutionary tech.
   
