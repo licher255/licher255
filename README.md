@@ -1,7 +1,7 @@
 # 👾 Licher | Entrepreneur & Researcher
 
 
-> *"Heute ist mein bester Tag"*
+> *Heute ist mein bester Tag*
 ## 🚀 Who Am I
 
 Former **Full-Stack Robotics Engineer** turned **Entrepreneur**. 
@@ -18,9 +18,9 @@ When I'm not building companies, I'm pursuing scientific research that fascinate
 2. **Facts are immutable** — Truth exists forever, unchanged.
 3. **Hell is other people** — Don't let society dictate your path.
 
-> *"Every Second matters."*
+> *Every Second matters.*
 
-> *"Start doing what you love. "*
+> *Start doing what you love.*
 
 ---
 
