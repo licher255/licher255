@@ -11,9 +11,9 @@ have forged a unique skill set that blends the physical with the digital in ways
 - Cross-Domain Engineer 🔧: Combining hardcore mechanical engineering principles with cutting-edge software development to create revolutionary tech.
   
 # Skill Arsenal🛠️
-- Languages 📝: QML, JavaScript, Python - the core of my magical incantations.
-- Frameworks & Tools 🧰: Qt, Docker, Git
-- Design Platforms: Figma, Adobe XD, PowerPoint of course - where I conjure user experiences.
+- Languages 📝: Now  I just vibe....
+- Frameworks & Tools : vibe
+- Design Platforms: Gemini, handdraw
 # Epic Projects and Contributions 🚀
 - Project Name: Built a next-gen interface that synchronizes with hardware like a cybernetic symbiosis.
 - Another Project: Pushed the boundaries of what's possible with a blend of mechanical and software engineering.
