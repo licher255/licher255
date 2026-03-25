@@ -1,28 +1,79 @@
-# About Me 👾
+# 👾 Licher | Entrepreneur & Researcher
 
-Hey there! I'm Licher, a Full Stack Wizard and UI/UX Sorcerer 🧙‍♂️, deeply entrenched in the realms of UI and hardware integration. 
 
-My journey from the mechanical engineering trenches to the software battlegrounds 
-have forged a unique skill set that blends the physical with the digital in ways that defy convention.
+> *"Heute ist mein bester Tag"*
+## 🚀 Who Am I
 
-# Professional Hacker Profile 💻
-- Full Stack Dev Alchemist 🧪: with some magic of AI, Crafting end-to-end solutions with QML, JavaScript, and Python, turning code into gold.
-- UI/UX Virtuoso 🎨: Designing mind-blowing interfaces that not only look sleek but also seamlessly meld with hardware.
-- Cross-Domain Engineer 🔧: Combining hardcore mechanical engineering principles with cutting-edge software development to create revolutionary tech.
-  
-# Skill Arsenal🛠️
-- Languages 📝: Now  I just vibe....
-- Frameworks & Tools : vibe
-- Design Platforms: Gemini, handdraw
-# Epic Projects and Contributions 🚀
-- Project Name: Built a next-gen interface that synchronizes with hardware like a cybernetic symbiosis.
-- Another Project: Pushed the boundaries of what's possible with a blend of mechanical and software engineering.
-- Open Source Warrior ⚔️: Active contributor to Project Name, enhancing [specific feature or area] with cutting-edge code.
-# Passions & Geekdom 🎮
-- Hardware Integration 🤖: Marrying mechanical and digital worlds in perfect harmony.
-- Open Source Crusader 🛡️: Passionate about driving innovation through community collaboration.
-- Tech Adventurer 🧗: Constantly diving into new technologies and uncharted territories of the coding universe.
-# Connect with Me 🌐
-- GitHub: [https://github.com/licher255] - Explore my repositories and join me on my coding quests.
-- LinkedIn: [www.linkedin.com/in/yuxuan-li-191772254] - Professional connections welcome.
-- Personal Website: [in buliding] - Dive deeper into my projects and passions.
+Former **Full-Stack Robotics Engineer** turned **Entrepreneur**. 
+
+When I'm not building companies, I'm pursuing scientific research that fascinates me — currently exploring **AI-accelerated supermaterial design and manufacturing**. Because why wait for permission to study what you love?
+
+---
+
+## 🧠 My Philosophy
+
+**Life Principles:**
+
+1. **Memento Mori** — People die. Time is finite.
+2. **Facts are immutable** — Truth exists forever, unchanged.
+3. **Hell is other people** — Don't let society dictate your path.
+
+> *"Every Second matters."*
+
+> *"Start doing what you love. "*
+
+---
+
+## ⚡ How I Work
+
+**Method:** Pure, unadulterated **VIBE**.
+
+No overthinking. No perfectionism paralysis. Just raw momentum and shipping fast.
+
+**Tools of Trade:** 
+- `vibe` — My universal framework for everything
+
+---
+
+## 🛠️ Tech Arsenal
+
+I can navigate any popular software or hardware stack. Currently obsessed with:
+
+- **High-Performance Computing** — Replacing Python in neural networks with **Rust** for maximum efficiency
+- **AI × Materials Science** — Leveraging machine learning to discover and manufacture next-gen materials
+- **Full-Stack Robotics** — From embedded systems to cloud architecture
+
+**Languages I Speak:**
+
+💻 Code:
+[![Python](https://img.shields.io/badge/Python-3.10+-3776ab?logo=python&logoColor=white)](https://www.python.org/)
+[![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)](https://www.rust-lang.org/)
+[![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)](https://isocpp.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+🌍 Human:
+[![Chinese](https://img.shields.io/badge/中文-Native-de2910)](https://en.wikipedia.org/wiki/Chinese_language)
+[![English](https://img.shields.io/badge/English-Fluent-0077B5)](https://en.wikipedia.org/wiki/English_language)
+[![Deutsch](https://img.shields.io/badge/Deutsch-Fluent-0077B5)](https://en.wikipedia.org/wiki/German_language)
+[![Cantonese](https://img.shields.io/badge/Cantonese-Learning-FFA500)](https://en.wikipedia.org/wiki/Cantonese)
+
+---
+
+## 🔨 What I'm Building
+
+- **Startup** — [Stealth mode / Building in public — coming soon]
+- **Research** — Using AI to revolutionize supermaterial discovery and manufacturing processes
+- **Side Projects** — Optimizing ML pipelines, experimenting with Rust-based deep learning
+
+---
+
+## 🌐 Let's Connect
+
+- **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/Licher-Profile-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuxuan-li-191772254)
+- **GitHub:** You're already here — explore my repos and let's build something wild.
+
+---
+
+*"The best time to start was yesterday. The second best time is now."*
+
+🚧 *Always building. Always vibing.*
